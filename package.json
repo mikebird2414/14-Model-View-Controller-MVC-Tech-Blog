@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "connect-session-sequelize": "^7.1.1",
+    "inquirer": "^8.0.0",
+    "jest": "^26.6.3",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.6.2"
+  },
+  "name": "14-model-view-controller-tech-blog",
+  "description": "## Your Task",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikebird2414/14-Model-View-Controller-MVC-Tech-Blog.git"
+  },
+  "keywords": [
+    "Blog"
+  ],
+  "author": "mikebird2414",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikebird2414/14-Model-View-Controller-MVC-Tech-Blog/issues"
+  },
+  "homepage": "https://github.com/mikebird2414/14-Model-View-Controller-MVC-Tech-Blog#readme"
+}
